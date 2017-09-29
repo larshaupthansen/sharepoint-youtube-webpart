@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sharepoint-youtube-webpart-client-side-solution",
+    "id": "3987af04-a983-4687-81dd-9ddaa47d8233",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sharepoint-youtube-webpart.sppkg"
+  }
+}
